@@ -1,0 +1,27 @@
+html {
+  background-color: #e7ecdc;
+  font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: Nunito Sans: здесь должно быть имя шрифта из Google fonts
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5x solid black;
+}
+h1 {
+  color: firebrick;
+  font-size: 60px;
+  text-align: center;
+}
+h2 {
+  color: rgb(240, 83, 83);
+
+}
+h3 {
+  color: chartreuse;
+}
+h4 {
+  color: blue;
+}
